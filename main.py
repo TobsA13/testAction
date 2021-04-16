@@ -1,3 +1,4 @@
+import sys
 
 print("Test0")
 print("::add-mask::KEK")
@@ -12,3 +13,5 @@ print("::group::My title")
 print("Inside group")
 print("::endgroup::")
 print("Du bist ein KEK lul")
+
+sys.exit(1)
