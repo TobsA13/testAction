@@ -20,6 +20,6 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
         registry: docker.pkg.github.com
-        repository: testaction/test
+        repository: tobsa13/testaction/test
         tag_with_sha: true
         tag_with_ref: true
